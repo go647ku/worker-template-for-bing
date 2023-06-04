@@ -1,0 +1,6 @@
+{
+  "version": 2, 
+  "builds": [
+    { "src": "worker.js", "use": "@vercel/node" }
+  ]
+} 
