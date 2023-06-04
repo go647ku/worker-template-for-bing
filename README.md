@@ -1,1 +1,1 @@
-# worker-template-for-bing
+# go647ku-worker-template-for-bing
